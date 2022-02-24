@@ -1,0 +1,33 @@
+{
+  "directory": "C:\\NodeProjects\\hotelbaackendorm\\src\\models",
+  "additional": {},
+  "dialect": "mssql",
+  "dialectOptions": {
+    "options": {
+      "encrypt": false
+  }
+  },
+  "port": 1433,
+  "type": "default",
+  "host": "LAPTOP-PAA2U09F",
+  "database": "Hotel",
+  "storage": "undefined",
+  "tables": null,
+  "skipTables": null,
+  "skipFields": null,
+  "pkSuffixes": null,
+  "lang": "es5",
+  "caseModel": "'o'",
+  "caseFile": "'o'",
+  "caseProp": "'o'",
+  "noAlias": false,
+  "noInitModels": false,
+  "noWrite": false,
+  "views": false,
+  "singularize": false,
+  "username": "sa",
+  "password":"123",
+  "useDefine": false,
+  "indentation": 2,
+  "noIndexes": false
+}

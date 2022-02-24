@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "123",
+    "port":"1433",
+    "database": "Hotel",
+    "host": "LAPTOP-PAA2U09F",
+    "dialect": "mssql",
+    "options": { "encrypt":false }
+  },
+  "test": {
+    "username": "sa",
+    "password": "123",
+    "port":"1433",
+    "database": "Hotel",
+    "host": "LAPTOP-PAA2U09F",
+    "dialect": "mssql",
+    "options": { "encrypt":false }
+  },
+  "production": {
+    "username": "sa",
+    "password": "123",
+    "port":"1433",
+    "database": "Hotel",
+    "host": "LAPTOP-PAA2U09F",
+    "dialect": "mssql",
+    "options": { "encrypt":false }
+  }
+}
